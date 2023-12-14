@@ -11,7 +11,7 @@ The website was already built but it does not meet accessibility guidliens and i
 I wrote the HTML tags to be semantic tags. This makes it more accessible and allows screen readers to understand the page better, improving SEO. Some redundincies in the CSS elements were removed in order to clean up the code. 
 
 Link to deployed application: https://nguyenaileen.github.io/semantic-refactor/
-Screenshot of  deployed application: assets/Deployed Application Screenshot.png
+[Screenshot of deployed application](assets/Deployed-Application-Screenshot.png)
 
 ## Credits
 https://www.w3schools.com/html/html5_semantic_elements.asp
